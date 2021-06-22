@@ -31,18 +31,18 @@ Even if you don’t know who verbally abused you, the information could still he
 # Conclusion
 These are some of the quick insights from this exercise:
 
-1.5 years having highest hate crime- 1996,1997,2000,2001,2008
+1. 5 years having highest hate crime- 1996,1997,2000,2001,2008
 
-2.Individuals are more involved in the hate crimes
+2. Individuals are more involved in the hate crimes
 
-3.New York and Los angeles are the two places whose public agency faces more hate crime in usa
+3. New York and Los angeles are the two places whose public agency faces more hate crime in usa
 
-4.More cases are registered in city agency
+4. More cases are registered in city agency
 
-5.State havng high hit crime is California
+5. State havng high hit crime is California
 
-6.Population group of 1A, 3, 4, 1B and 5 are involved in hate crime
+6. Population group of 1A, 3, 4, 1B and 5 are involved in hate crime
 
-7.Hate crime is registered more in residence/home more
+7. Hate crime is registered more in residence/home more
 
-8.Main reason for hate crime is due to race/ethnicity/ancestry
+8. Main reason for hate crime is due to race/ethnicity/ancestry
